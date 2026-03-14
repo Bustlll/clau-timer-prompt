@@ -1,6 +1,6 @@
 # clau-timer-prompt
-go to sleep and have a prompt ready for claude to execute on the cli
-works both ways with and wihtout esc press:
+go to sleep and have a prompt ready for claude to execute on the cli.
+---------------------------------------------------------------------
 
 python3 messageTimer -esc 1 HOURS MINUTES (escape the limit reached message) "MESSAGE"
 python3 messageTimer HOURS MINUTES "MESSAGE" 
