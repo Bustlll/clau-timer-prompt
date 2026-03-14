@@ -49,7 +49,7 @@ python3 messageTimer 0 1 "stay still and dont say nothing, you are under ransom"
 
 ### Timer with escape flag
 
-Wait **4 hours and 20 minutes**, suppressing the limit message for **4 hours**:
+Wait **4 hours and 20 minutes**, then exit the limit message and send message:
 
 ```bash
 python3 messageTimer -esc 4 4 20 "continue with the implementation"
